@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--* This project is done by Khaidem Sandip Singha under the Udacity Android Foundations Nanodegree program.
+    *
+    * I confirm that this submission is my own work. I have not used code from any other Udacity student's or graduate's submission of the same project.
+    * I understand that Udacity will check my submission for plagiarism, and that failure to adhere to the Udacity Honor Code may result in the cancellation of my
+    * enrollment.
+    *-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.tourguide.CityEvents">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/list_item"
+        android:layout_height="@dimen/list_item" />
+
+    <RelativeLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@id/image"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/padding_left">
+
+        <TextView
+            android:id="@+id/header_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/layout_height"
+            android:paddingTop="@dimen/padding_top"
+            android:gravity="top"
+            android:textStyle="bold"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="lutti"/>
+
+        <TextView
+            android:id="@+id/description_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/text_height"
+            android:layout_below="@id/header_text_view"
+            android:paddingBottom="@dimen/padding_bottom"
+            android:gravity="bottom"
+            android:textSize="@dimen/text_size"
+            android:textAppearance="?android:textAppearanceMedium"
+            tools:text="one" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

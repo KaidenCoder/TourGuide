@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="top_attractions">Top attractions</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="public_places">Public places</string>
+    <string name="city_events">City events</string>
+
+    <string name="city_one">1) Gandhi Mela</string>
+    <string name="city_one_description">This mela(fair) is dedicated to pay homage and respect to the great son of the country.</string>
+    <string name="city_two">2) Durga Puja</string>
+    <string name="city_two_description">A festival celebrated every year in October. It is celebrated for Goddess Durga.</string>
+
+    <string name="public_one">1) Silchar Civil Hospital</string>
+    <string name="public_one_description">One of the oldest hospitals in the region. It is a Government funded medical hospital.</string>
+    <string name="public_two">2) Big Bazar</string>
+    <string name="public_two_description">One of the biggest shopping mall in Silchar.</string>
+    <string name="public_three">3) Nahaz</string>
+    <string name="public_three_description">A restaurant which is one of the top rate restaurants in the Silchar town.</string>
+    <string name="public_four">4) Gandhibag Park</string>
+    <string name="public_four_description">A children park named after Mahatma Gandhi. It is located on the banks of a lake on the Park Road in the heart of the town.</string>
+    <string name="public_five">5) Silchar Medical college and Hospital</string>
+    <string name="public_five_description">Silchar Medical College and Hospital is a government-run medical college cum hospital in Silchar in southern Assam.</string>
+
+    <string name="restaurant_one">1) Nahaz</string>
+    <string name="restaurant_one_description">One of the top visited restaurants in Silchar town. Many people visit here for all occasions they have in their life.</string>
+    <string name="restaurant_two">2) Dominos Pizza</string>
+    <string name="restaurant_two_description">Though overpriced, people still visit this place for its taste.</string>
+    <string name="restaurant_three">3) Pizza Hut</string>
+    <string name="restaurant_three_description">One of the closest competitors to Dominos Pizza.</string>
+    <string name="restaurant_four">4) KFC</string>
+    <string name="restaurant_four_description">Though overpriced, people simply cannot resist to have a bite of the KFC chicken.</string>
+
+    <string name="attraction_one">1) Barak River</string>
+    <string name="attraction_one_description">The Barak Valley is located in the southern region of the Indian state of Assam. The main city of the valley is Silchar.</string>
+    <string name="attraction_two">2) Maibong</string>
+    <string name="attraction_two_description">Situated at an altitude of 355 meters, Maibong attracts tourist in great numbers with its spectacular landscape and ancient architecture.</string>
+    <string name="attraction_three">3) Jatinga</string>
+    <string name="attraction_three_description">Popularly referred to as ‘The valley of death for birds’, Jatinga is a scenic village situated south of Haflong.</string>
+    <string name="attraction_four">4) Khaspur</string>
+    <string name="attraction_four_description">Constructed in 1690 AD, Khaspur of today holds the ruins of ancient times to highlight the historical significance of the Kachari Kingdom.</string>
+</resources>
